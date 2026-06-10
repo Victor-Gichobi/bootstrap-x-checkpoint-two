@@ -1,0 +1,26 @@
+.hero{
+height:100vh;
+background:url(media/ChatGPT\ restaurant.png) center/cover;
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+color:white;
+}
+
+.hero-content{
+background:rgba(73, 4, 4, 0.5);
+padding:30px;
+border-radius:10px;
+}
+
+.menu-img{
+height:250px;
+object-fit:cover;
+}
+
+footer{
+background:#212529;
+color:white;
+padding:20px;
+}
